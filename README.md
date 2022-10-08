@@ -5,5 +5,7 @@ O seguinte código utiliza a base "vgsales.csv" para realizar uma análise explo
 Foram utilizadas as bibliotecas:
 
 - Pandas
--- Matplotlib
--- Seaborn
+
+- Matplotlib
+
+- Seaborn
